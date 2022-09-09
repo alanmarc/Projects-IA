@@ -1,0 +1,8 @@
+Modificar la red neuronal  Perceptron 
+ 1) Agregando (al menos 1) parametros que nos permita diferenciar hombrs de mujeres
+ 2) Agregar mas ejemplos (qu al menos sean 100) 
+
+Enviar capturas de antalla donde se observen los cambios tanto en el programa como 
+en los resultados que nos da la ejecucion del algoritmo
+
+Todo en un archivo ZIP o RAR cuyo nombre sea sus 2 apellidos

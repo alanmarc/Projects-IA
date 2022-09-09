@@ -1,0 +1,8 @@
+Modificar la red Neuronal Xor 
+ 1) Que reconozca otra compuerta (AND, OR, NOT, Implicacion o Dobleimplicacion)
+      modificarla para al menos 2 compuertas
+ 2) Probar con cantidades diferentes de iteraciones 
+ 3) Determinar en que momento la red alcanza el 100% (1.0), en caso de alcanzarlo
+ 4) Explicar cuales fueron sus cambios en cada caso (compuerta) 
+ 5) Enviar capturas de pantalla de codigo y ejecucion que muestren lo solicitado
+ 6) Enviar a mas tardar este 30 de abril de 2020 a fzflores@yahoo.com.mx
